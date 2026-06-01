@@ -1,2 +1,2 @@
 # canvabot
-kodingjago
+koding via copilot josjis
